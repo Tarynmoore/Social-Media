@@ -24,6 +24,7 @@ There are many paramaters that you can use but here is a breakdown of what they 
 + /api/users - can be used to GET all users and POST new users 
 + /api/users/:userId - PUT to update a user with the required params, DELETE a user, and GET a single user by id. 
 + /api/users/:userId/friends/:friendId - POST to add a new friend to an existing user, and DELETE a friend from an existing user. 
++ This link shows all the user routes: 
 [Untitled_ Aug 31, 2022 12_22 PM.webm](https://user-images.githubusercontent.com/101439331/187751562-ee3228e9-204b-46ee-aff3-398ddd942123.webm)
 
 
