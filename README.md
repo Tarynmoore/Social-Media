@@ -1,5 +1,5 @@
 # Social Media Backend
-
+Github: https://github.com/Tarynmoore/Social-Media
 
 User routes demo video: 
 [Untitled_ Aug 31, 2022 12_22 PM.webm](https://user-images.githubusercontent.com/101439331/187751562-ee3228e9-204b-46ee-aff3-398ddd942123.webm)
